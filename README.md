@@ -1,3 +1,3 @@
 #### COMP3104 – Developer Operations
 
-Test2!
+[![Build Status](https://app.travis-ci.com/iamvinny/COMP3104.svg?branch=master)](https://app.travis-ci.com/iamvinny/COMP3104)
