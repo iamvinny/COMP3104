@@ -1,10 +1,10 @@
 {
   "name": "comp3104",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test1!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Warning: No tests created yet\""
   },
   "repository": {
     "type": "git",
