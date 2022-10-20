@@ -1,11 +1,12 @@
-# config
-language: node.js
+language: node_js
+before_install:
+  - sudo apt-get update -qq
 node_js:
-  -"stable"
+  - 17
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  github_token: $github_token
   local_dir: build
   on:
     branch: master
